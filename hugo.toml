@@ -1,0 +1,4 @@
+baseURL = 'https://solehcifonelli.com/'
+languageCode = 'en-us'
+title = 'My Portfolio'
+theme = 'ananke'
